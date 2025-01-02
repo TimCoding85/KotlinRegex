@@ -1,0 +1,36 @@
+<component name="ArtifactManager">
+  <artifact name="demo1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/demo1_jar</output-path>
+    <root id="root">
+      <element id="archive" name="demo1.jar">
+        <element id="module-output" name="demo1.main" />
+      </element>
+      <element id="library" level="project" name="Gradle: org.jetbrains.compose.runtime:runtime-desktop:1.4.1" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.compose.material:material-icons-core-desktop:1.4.1" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.compose.ui:ui-text-desktop:1.4.1" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.compose.ui:ui-desktop:1.4.1" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.20" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.skiko:skiko-awt-runtime-windows-x64:0.7.63" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.compose.ui:ui-tooling-preview-desktop:1.4.1" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.compose.ui:ui-geometry-desktop:1.4.1" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.compose.ui:ui-graphics-desktop:1.4.1" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.compose.ui:ui-unit-desktop:1.4.1" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.compose.animation:animation-core-desktop:1.4.1" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.8.20" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.compose.foundation:foundation-layout-desktop:1.4.1" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.20" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.compose.desktop:desktop-jvm:1.4.1" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.kotlinx:atomicfu-jvm:0.17.0" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.compose.foundation:foundation-desktop:1.4.1" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.compose.material:material-desktop:1.4.1" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.4.1" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.skiko:skiko-awt:0.7.63" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.compose.animation:animation-desktop:1.4.1" />
+      <element id="library" level="project" name="Gradle: org.jetbrains:annotations:13.0" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.compose.material:material-ripple-desktop:1.4.1" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.20" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.compose.ui:ui-util-desktop:1.4.1" />
+    </root>
+  </artifact>
+</component>

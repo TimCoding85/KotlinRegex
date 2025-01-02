@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Main-Class: MainKt
+Class-Path: runtime-desktop-1.4.1.jar material-icons-core-desktop-1.4.1.
+ jar ui-text-desktop-1.4.1.jar ui-desktop-1.4.1.jar kotlin-stdlib-1.8.20
+ .jar skiko-awt-runtime-windows-x64-0.7.63.jar ui-tooling-preview-deskto
+ p-1.4.1.jar ui-geometry-desktop-1.4.1.jar ui-graphics-desktop-1.4.1.jar
+  ui-unit-desktop-1.4.1.jar animation-core-desktop-1.4.1.jar kotlin-stdl
+ ib-common-1.8.20.jar foundation-layout-desktop-1.4.1.jar kotlin-stdlib-
+ jdk7-1.8.20.jar desktop-jvm-1.4.1.jar atomicfu-jvm-0.17.0.jar foundatio
+ n-desktop-1.4.1.jar kotlinx-coroutines-core-jvm-1.6.4.jar material-desk
+ top-1.4.1.jar runtime-saveable-desktop-1.4.1.jar skiko-awt-0.7.63.jar a
+ nimation-desktop-1.4.1.jar annotations-13.0.jar material-ripple-desktop
+ -1.4.1.jar kotlin-stdlib-jdk8-1.8.20.jar ui-util-desktop-1.4.1.jar
+
